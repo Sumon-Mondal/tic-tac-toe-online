@@ -72,7 +72,7 @@ const TicTacToe = () => {
   const reset = () => {
     setLock(false);
     data = ["", "", "", "", "", "", "", "", ""];
-    titleRef.current.innerHTML = 'Tic Tac Toe In <span>React</span>';
+    titleRef.current.innerHTML = 'Tic Tac Toe <span>Online</span>';
     box_array.map((e) => {
       e.current.innerHTML = "";
       return null;
