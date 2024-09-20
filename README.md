@@ -72,7 +72,7 @@ Thank you for checking out my project! I hope you enjoy playing Tic Tac Toe as m
 
 Feel free to reach out with any questions or comments:
 
-- **GitHub:** [Sumon-Mondal]([https://github.com/yourusername](https://github.com/Sumon-Mondal))
+- **GitHub:** [Sumon-Mondal](https://github.com/Sumon-Mondal)
 - **Email:** [sumonmondal0702@gmail.com](mailto:sumonmondal0702@gmail.com)
 
 Happy gaming! 🎮
