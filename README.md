@@ -4,7 +4,7 @@ Welcome to the Tic Tac Toe Web App! This project is a simple and engaging way to
 
 ## 🌐 Live Demo
 
-You can play the game live by visiting: [Tic Tac Toe Live Demo](https://t3-tic-tac-toe.netlify.app/)
+You can play the game live by visiting: [Tic Tac Toe Live Demo](https://sm-tic-tac-toe-online.netlify.app/)
 
 ## 📦 Features
 
